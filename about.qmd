@@ -1,0 +1,7 @@
+---
+title: "About Me"
+---
+
+![Mooney's Bay, Ottawa](files/portrait_photo.PNG){.circle-image}
+
+I'm Victor Ma, an aspiring software engineer dedicated to creating impactful technology solutions. I most recently had the opportunity to work at AMD as a Design Verification Engineer where I specialized in test automation and shell scripting, and I am interested in learning more about high performance computing and artifical intelligence. In my freetime I like to transcribe piano sheets and lift weights. I'm currently learning Swift to develop an iOS app which acts as a progress journal at the gym, with various features such as calorie tracking and recommended routines/reminders.

@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Mooney’s Bay, Ottawa\n\n\nI’m Victor Ma, an aspiring software engineer dedicated to creating impactful technology solutions. I most recently had the opportunity to work at AMD as a Design Verification Engineer where I specialized in test automation and shell scripting, and I am interested in learning more about high performance computing and artifical intelligence. In my freetime I like to transcribe piano sheets and lift weights. I’m currently learning Swift to develop an iOS app which acts as a progress journal at the gym, with various features such as calorie tracking and recommended routines/reminders."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Connecting with me is easy. Feel free to reach out to me through any of the following channels:\n\n LinkedIn\n Email\n Phone: 1-343-558-8883"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hello, welcome to my website! Here you can find my personal bio, resume, and contact information.\n\nNavigation\n\nAbout - Learn more about my professional background and interests.\nContact - See my contact info.\nResume - Download my resume."
+  }
+]

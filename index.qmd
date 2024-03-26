@@ -1,0 +1,15 @@
+---
+title: "Welcome"
+format:
+  html:
+    include-before: |
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-SZXxX4whJvJUNE1bVScHc+aA4iZKH2fTplPeL1H6FI2Ix8J+xzB6DoeW4fHKg3lD" crossorigin="anonymous">
+---
+
+Hello, welcome to my website! Here you can find my personal bio, resume, and contact information.
+
+# Navigation
+
+-   [About](about.html) - Learn more about my professional background and interests.
+-   [Contact](contact.html) - See my contact info.
+-   [Resume](files/resume.pdf) - Download my resume.
